@@ -6,9 +6,7 @@ Welcome to the **telescope-linear.nvim** a [telescope.nvim](https://github.com/n
 
 ## Installation
 
-```lua
-use "pafry/telescope-linear.nvim"
-```
+TODO
 
 ## Usage
 
